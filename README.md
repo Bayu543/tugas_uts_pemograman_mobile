@@ -8,6 +8,7 @@
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Pemrograman mobile |
 | **Dosen** | Donny Maulana, S.Kom., M.M.S.I. |
+![storyboard](https://github.com/user-attachments/assets/5e3f9cbc-f846-4ee0-a60e-e6a62c8785a7)
 
 Berikut adalah penjelasan dari setiap frame dalam storyboard untuk aplikasi Tatsydash:
 
